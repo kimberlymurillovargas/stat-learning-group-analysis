@@ -128,6 +128,7 @@ summary(sanction_model_grouped)
 
 
 #Regression Result
+
 exp(cbind(
   Odds_Ratio = coef(sanction_model_grouped),
   confint(sanction_model_grouped)

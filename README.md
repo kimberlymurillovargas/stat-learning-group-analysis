@@ -14,6 +14,8 @@ hallucinations or legal cases more generally.
 
 Overall, this analysis suggests that the context in which an AI hallucination 
 occurs may matter when looking at professional sanctions, but there are still 
-limitations to what we can conclude from this dataset.
+limitations to what we can conclude from this dataset.This further shows that 
+many lawyers have been caught submitting court filing hallucinated by AI and to
+not generalize to a larger population.
 
 
